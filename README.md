@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-homework-2-test-case-creation
+<br>
+Using the following pseudocode, provide 3 unique test cases that would help validate youralgorithm. Be sure to place the test cases in a table showing the input values, and expected outputfor each test case.Write “Enter the price in dollars:”Input PriceWrite “Enter state sales tax(e.g. .06) :”Input SalesTaxSet Price = Price + (Price * SalesTax)Write “Price with Tax is” + PriceSubmit your word or PDF file to your assignments folder no later than the due date
